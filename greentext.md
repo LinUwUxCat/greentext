@@ -1,0 +1,30 @@
+>be me  //program starts
+>be me, coomer //program starts - eventual arguments when launching the program will go in the variables after the comma.
+	       //here, a program launched with a command line argument will put a string in the variable "coomer", along with creating it
+comments are basically text that doesn't start with a >. 
+//INTS
+>XXXX years ago, in VARNAME // make an integer variable.
+			    // example : 20 years ago, in philadelphia
+			    // this will make an integer variable named philadelphia with value 20
+>fast-forward XXXX years, VARNAME //adds value to variable
+				  //example >fast-forward 4 years, philadelphia
+				  //adds 4 to the variable philadephia
+
+//FLOATS
+>dating qtXX.XX, named VARNAME //XX.XX being the float, VARNAME the variable name
+			       //example >dating qt3.14, named jean
+			       //creates float var "jean" and puts 3.14 in it
+>VARNAME is a solid XX.XX/10   //set float VARNAME to XX.XX divided by 10
+			       //example >jean is a solid 31.4/10
+			       //puts 3.14 in the variable jean, since 31.4/10=3.14
+//fast-forward works too
+
+//STRINGS
+>decides to be a dentist//creates string variable named dentist
+>mfw John is a dentist	//puts the string "John" in the variable named "austin"
+			//"a" and "an" work the same, for both commands
+>mfw James is also a dentist //APPENDS the string given to variable
+
+
+//PRINT
+>
