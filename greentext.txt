@@ -21,16 +21,17 @@ comments are basically text that doesn't start with a >.
 
 //STRINGS
 >decides to be a dentist//creates string variable named dentist
->mfw John is a dentist	//puts the string "John" in the variable named "austin"
+>mfw "John" is a dentist	//puts the string "John" in the variable named "austin"
 			//"a" and "an" work the same, for both commands
->mfw James is also a dentist //APPENDS the string given to variable
+>mfw "James" is also a dentist //APPENDS the string given to variable
 
 
 //PRINT
->VARNAME.png //prints variable. example : philadelphia.png | also works with .jpg and .jpeg
+yells VARNAME at the top of my lungs //prints varname
 
 
 //FUNCTIONS
->be rich //start of function "rich"
+>be women //start of function "women"
 //code...
->mfw im rich //end of function rich
+>why are women like this? //end of function women
+//works with are and is
