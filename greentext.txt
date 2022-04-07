@@ -1,6 +1,7 @@
 >be me  //program starts
 >be me, coomer //program starts - eventual arguments when launching the program will go in the variables after the comma.
 	       //here, a program launched with a command line argument will put a string in the variable "coomer", along with creating it
+>why am i like this? //main function ends
 comments are basically text that doesn't start with a >. 
 //INTS
 >XXXX years ago, in VARNAME // make an integer variable.
@@ -21,10 +22,10 @@ comments are basically text that doesn't start with a >.
 
 //STRINGS
 >decides to be a dentist//creates string variable named dentist
->mfw "John" is a dentist	//puts the string "John" in the variable named "austin"
+>mfw John is a dentist	//puts the string "John" in the variable named "austin"
 			//"a" and "an" work the same, for both commands
->mfw "James" is also a dentist //APPENDS the string given to variable
-
+>mfw James is also a dentist //APPENDS the string given to variable
+//to append a space : you can't.
 
 //PRINT
 yells VARNAME at the top of my lungs //prints varname
@@ -35,3 +36,7 @@ yells VARNAME at the top of my lungs //prints varname
 //code...
 >why are women like this? //end of function women
 //works with are and is
+//just like the original "me" function, the functions can have arguments.
+//example:
+>be american, mildly autist //function american with 2 arguments, mildly and autist
+//arguments type are always strings
